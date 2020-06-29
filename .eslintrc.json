@@ -28,6 +28,7 @@
       }
     ],
     "no-useless-constructor": "off",
+    "import/prefer-default-export": "off",
     "@typescript-eslint/interface-name-prefix": [
       "error",
       {
@@ -37,6 +38,7 @@
     "@typescript-eslint/camelcase": "off",
     "prettier/prettier": "error",
     "class-methods-use-this": "off",
+    "no-unreachable": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
